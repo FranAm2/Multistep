@@ -38,7 +38,7 @@
     fill: #7076f4;
 }
 
-@media (max-width:412px) {
+@media (max-width:455px) {
     .steps{
         max-width: 100%;
         gap: 1rem;
