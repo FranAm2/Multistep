@@ -37,3 +37,14 @@
 .active > svg {
     fill: #7076f4;
 }
+
+@media (max-width:412px) {
+    .steps{
+        max-width: 100%;
+        gap: 1rem;
+    }
+
+    .steps::after{
+        max-width: 100%;
+    }
+}
